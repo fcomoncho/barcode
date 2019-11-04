@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --icon=discana.ico generador_lista_code128.py
